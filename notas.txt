@@ -1,1 +1,8 @@
 Este doc de suporte foi criado no GIT às 15:22
+
+git config -l --local
+git config -l --global
+git confug user.name Francisco
+git config user.email 7962725@formacao.iefp.pt
+
+git remote set-url origin git@github.com:fd-7962725/13Maio.git
